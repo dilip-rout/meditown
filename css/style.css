@@ -205,7 +205,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .main-top{
-	background: #12557f;
+	background: #292f35;
 }
 .left-top a{
 	display: inline-block;
@@ -263,7 +263,6 @@ button:focus{
 }
 
 .new-btn-d.br-2{
-	border: 2px solid #ffffff;
 }
 
 .mail-b{
@@ -273,7 +272,6 @@ button:focus{
 	font-size: 14px;
 	color: #ffffff;
 	padding: 12px 30px;
-	border: 2px solid #ffffff;
 }
 .mail-b a:hover{
 	color: #0b9ada;
